@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aniruddha Rath 👋
 
-<!--
-**AniRath020697/AniRath020697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Computer Science @ Pace University · building software across AI, web, and games.
+Currently: strengthening Python fundamentals and shipping portfolio projects track-by-track.
 
-Here are some ideas to get you started:
+## 🔭 Projects by track
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Track | What it shows |
+|---|---|---|
+| [CrowD City](https://github.com/AniRath020697/CrowdCity) | 🎮 Games | Complete Unity game — crowd AI, wave systems, NavMesh (C#) |
+| [Portfolio site](https://github.com/AniRath020697/anirath020697.github.io) | 🌐 Web | React + vanilla JS builds, incl. time-travel tic-tac-toe |
+| [Degrees](https://github.com/AniRath020697/Degrees) | 🤖 AI | BFS shortest-path over an IMDb-scale graph (Python) |
+
+## 🛠️ Stack
+`Python` `Java` `C# / Unity` `JavaScript / React` `SQL` `Git`
+
+## 📫 Reach me
+- Portfolio: https://anirath020697.github.io
+- LinkedIn: https://www.linkedin.com/in/aniruddha-rath
+- Email: rathaniruddha@gmail.com
